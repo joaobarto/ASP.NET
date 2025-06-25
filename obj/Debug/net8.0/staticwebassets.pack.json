@@ -1,0 +1,33 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Aluno\\Documents\\Joao_v\\ASP.NET\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\Aluno\\Documents\\Joao_v\\ASP.NET\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\Aluno\\Documents\\Joao_v\\ASP.NET\\wwwroot\\js\\script.js",
+      "PackagePath": "staticwebassets\\js\\script.js"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Gerenciador de tarefas.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.Gerenciador de tarefas.props",
+      "PackagePath": "build\\Gerenciador de tarefas.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.Gerenciador de tarefas.props",
+      "PackagePath": "buildMultiTargeting\\Gerenciador de tarefas.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.Gerenciador de tarefas.props",
+      "PackagePath": "buildTransitive\\Gerenciador de tarefas.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

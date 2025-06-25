@@ -1,0 +1,27 @@
+C:\Users\Aluno\Documents\Joao_v\ASP.NET\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Aluno\Documents\Joao_v\ASP.NET\bin\Debug\net8.0\appsettings.json
+C:\Users\Aluno\Documents\Joao_v\ASP.NET\bin\Debug\net8.0\Gerenciador de tarefas.staticwebassets.runtime.json
+C:\Users\Aluno\Documents\Joao_v\ASP.NET\bin\Debug\net8.0\Gerenciador de tarefas.exe
+C:\Users\Aluno\Documents\Joao_v\ASP.NET\bin\Debug\net8.0\Gerenciador de tarefas.deps.json
+C:\Users\Aluno\Documents\Joao_v\ASP.NET\bin\Debug\net8.0\Gerenciador de tarefas.runtimeconfig.json
+C:\Users\Aluno\Documents\Joao_v\ASP.NET\bin\Debug\net8.0\Gerenciador de tarefas.dll
+C:\Users\Aluno\Documents\Joao_v\ASP.NET\bin\Debug\net8.0\Gerenciador de tarefas.pdb
+C:\Users\Aluno\Documents\Joao_v\ASP.NET\obj\Debug\net8.0\Gerenciador de tarefas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno\Documents\Joao_v\ASP.NET\obj\Debug\net8.0\Gerenciador de tarefas.AssemblyInfoInputs.cache
+C:\Users\Aluno\Documents\Joao_v\ASP.NET\obj\Debug\net8.0\Gerenciador de tarefas.AssemblyInfo.cs
+C:\Users\Aluno\Documents\Joao_v\ASP.NET\obj\Debug\net8.0\Gerenciador de tarefas.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Documents\Joao_v\ASP.NET\obj\Debug\net8.0\Gerenciador de tarefas.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Aluno\Documents\Joao_v\ASP.NET\obj\Debug\net8.0\Gerenciador de tarefas.sourcelink.json
+C:\Users\Aluno\Documents\Joao_v\ASP.NET\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Aluno\Documents\Joao_v\ASP.NET\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Aluno\Documents\Joao_v\ASP.NET\obj\Debug\net8.0\staticwebassets\msbuild.Gerenciador de tarefas.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Aluno\Documents\Joao_v\ASP.NET\obj\Debug\net8.0\staticwebassets\msbuild.build.Gerenciador de tarefas.props
+C:\Users\Aluno\Documents\Joao_v\ASP.NET\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Gerenciador de tarefas.props
+C:\Users\Aluno\Documents\Joao_v\ASP.NET\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Gerenciador de tarefas.props
+C:\Users\Aluno\Documents\Joao_v\ASP.NET\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Aluno\Documents\Joao_v\ASP.NET\obj\Debug\net8.0\scopedcss\bundle\Gerenciador de tarefas.styles.css
+C:\Users\Aluno\Documents\Joao_v\ASP.NET\obj\Debug\net8.0\Gerenciador de tarefas.dll
+C:\Users\Aluno\Documents\Joao_v\ASP.NET\obj\Debug\net8.0\refint\Gerenciador de tarefas.dll
+C:\Users\Aluno\Documents\Joao_v\ASP.NET\obj\Debug\net8.0\Gerenciador de tarefas.pdb
+C:\Users\Aluno\Documents\Joao_v\ASP.NET\obj\Debug\net8.0\Gerenciador de tarefas.genruntimeconfig.cache
+C:\Users\Aluno\Documents\Joao_v\ASP.NET\obj\Debug\net8.0\ref\Gerenciador de tarefas.dll
