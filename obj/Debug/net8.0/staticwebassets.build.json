@@ -1,0 +1,77 @@
+{
+  "Version": 1,
+  "Hash": "BYXLY8GL0yjUEwe50ILCaAcfPaMsqT7FfGg33k2ZJrA=",
+  "Source": "Gerenciador de tarefas",
+  "BasePath": "_content/Gerenciador de tarefas",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Gerenciador de tarefas\\wwwroot",
+      "Source": "Gerenciador de tarefas",
+      "ContentRoot": "C:\\Users\\Aluno\\Documents\\Joao_v\\ASP.NET\\wwwroot\\",
+      "BasePath": "_content/Gerenciador de tarefas",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\Aluno\\Documents\\Joao_v\\ASP.NET\\wwwroot\\css\\style.css",
+      "SourceId": "Gerenciador de tarefas",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Aluno\\Documents\\Joao_v\\ASP.NET\\wwwroot\\",
+      "BasePath": "_content/Gerenciador de tarefas",
+      "RelativePath": "css/style.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\style.css"
+    },
+    {
+      "Identity": "C:\\Users\\Aluno\\Documents\\Joao_v\\ASP.NET\\wwwroot\\index.html",
+      "SourceId": "Gerenciador de tarefas",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Aluno\\Documents\\Joao_v\\ASP.NET\\wwwroot\\",
+      "BasePath": "_content/Gerenciador de tarefas",
+      "RelativePath": "index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    },
+    {
+      "Identity": "C:\\Users\\Aluno\\Documents\\Joao_v\\ASP.NET\\wwwroot\\js\\script.js",
+      "SourceId": "Gerenciador de tarefas",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Aluno\\Documents\\Joao_v\\ASP.NET\\wwwroot\\",
+      "BasePath": "_content/Gerenciador de tarefas",
+      "RelativePath": "js/script.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\script.js"
+    }
+  ]
+}
