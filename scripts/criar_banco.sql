@@ -1,6 +1,6 @@
-CREATE DATABASE [Gerenciador Tarefas];
+CREATE DATABASE [GerenciadorTarefas];
 GO
-USE [Gerenciador Tarefas];
+USE [GerenciadorTarefas];
 GO
 
 CREATE TABLE Tarefas (
