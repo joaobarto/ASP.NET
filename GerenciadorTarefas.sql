@@ -31,9 +31,3 @@ SET Concluida = 1
 WHERE Id = 1;
 
 -- 🔹 Remover uma Tarefa
-DELETE FROM Tarefas
-WHERE Id = 1;
-DELETE FROM Tarefas
-WHERE Id = 1;
-
-SELECT * FROM Tarefas;
